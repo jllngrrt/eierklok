@@ -1,0 +1,24 @@
+VERSIE SOBER V2 (29/10/2026)
+- Zon en maan niet langer zichtbaar in de dierenkalender.
+- Kopje 'Mijn dierenkalender' en icoontje verwijderd.
+- Feestcopy 'Hoera! Het diertje is geboren!' verwijderd; animatie blijft.
+- Pijltje uit 'Plak mijn diertje' verwijderd.
+- 'Bekijk kalender' en 'Plak mijn diertje' zijn even hoog.
+- Goedkeurde duimsticker en kalendergegevens behouden.
+Publiceer ALLE bestanden bij update en gebruik exact dezelfde URL als voorheen.
+
+VERSIE: KALENDER ZONDER ZON, MAAN OF RECHTSE PAGINATITEL.
+De goedgekeurde persoonlijke duimsticker is ongewijzigd behouden.
+Bij updates: vervang alle bestanden van je bestaande GitHub Pages-repository. Gebruik hetzelfde webadres om lokaal opgeslagen stickers te behouden.
+
+REMI'S MAGISCHE EIERKLOK — INSTALLATIE
+
+Deze ZIP is een kant-en-klare PWA-webbundel, GEEN APK. Een ZIP of losse HTML geeft nog geen installeerbare Chrome-app.
+
+1. Pak het ZIP-bestand uit.
+2. Plaats de volledige inhoud (index.html, manifest.webmanifest, sw.js en beide iconen) op een HTTPS-webadres dat je zelf beheert, liefst met afgeschermde toegang omdat de foto van Remi in de HTML is opgenomen. LET OP: sommige wachtwoordbeveiligingen of platformen verhinderen offline-caching of installatie; test de host.
+3. Open de HTTPS-URL in Chrome op de Teclast T50. Kies menu ⋮ > App installeren / Toevoegen aan startscherm.
+4. Open de app eenmaal online en test daarna in vliegtuigmodus.
+5. Stickers worden bewaard in lokale browseropslag onder dezelfde webherkomst. Verander de URL/herkomst niet na installatie en wis de sitegegevens niet: anders kan de kalender verdwijnen. Maak bij belangrijke data vooraf een back-up; deze versie heeft nog geen exportfunctie.
+
+ALTERNATIEF ZONDER PUBLICATIE: Kopieer index.html als lokaal bestand naar de Teclast en open via een browser; dit is geen installeerbare PWA en offline opslag kan variëren per browser.

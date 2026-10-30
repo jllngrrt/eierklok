@@ -1,0 +1,3 @@
+Remi Eierklok PWA, bijgewerkte fotosticker stijl 2. Pak deze ZIP uit en upload alle bestanden in de hoofdmap van een GitHub Pages-repository. GitHub Pages is publiek: de foto van Remi is dan openbaar toegankelijk. Open de HTTPS-website op de Teclast in Chrome en kies Installeren/Toevoegen aan startscherm. Stickers worden lokaal opgeslagen in de browser. Publiceren is niet door ChatGPT uitgevoerd.
+
+Update: deze versie verwijdert zon/maan uit kalender en titel rechtsboven, maar bewaart bestaande stickeropslag bij dezelfde URL.
